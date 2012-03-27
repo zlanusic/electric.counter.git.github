@@ -135,7 +135,7 @@ public class ElCalcualator extends JPanel {
 		ntEndField = new JTextField(integerFormat.format(DEFAULT_NTEND));
 		ntEndField.setInputVerifier(verifier);			
 		
-		//rata za platiti ili povrat u slucaju pretplate
+		//rata za platiti ili povrat u slucaju preplacenog iznosa
 		//paymentField = new JTextField(paymentFormat.format(payment), 10);
 		//paymentField.setInputVerifier(verifier);
 		//paymentField.setEditable(false);
