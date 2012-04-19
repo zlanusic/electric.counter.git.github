@@ -56,7 +56,7 @@ public class ElCalcualator extends JPanel {
 	private JLabel rateFeeLabel;
 	
 	
-	//Text fields for data input
+	//Text fields for data input(unos) 
 	private JTextField vtField; //decimal
 	private JTextField ntField; //decimal
 	private JTextField feeField; //money
